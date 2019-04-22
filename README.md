@@ -1,1 +1,1 @@
-![Stello](username.github.com/repository/img/image.jpg)
+![Stello](https://github.com/Yassirr/Stello/blob/master/Project/ScreenShots/6.png)
